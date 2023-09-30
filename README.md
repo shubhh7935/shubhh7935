@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **thessingh08@gmail.com**
 
-- 📄 Know about my experiences [https://shubhh7935.github.io/portfolio/](https://shubhh7935.github.io/portfolio/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubhh7935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhh7935" height="30" width="40" /></a>
